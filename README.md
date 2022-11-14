@@ -12,3 +12,5 @@ This repository contains an issue tracker that allows sponsors to post bounties 
 ![ETHBrno Banner](https://github.com/ethbrno/.github/blob/main/profile/ethbrno-cover.png)
 
 _Note that in order to win a main track hackathon prize or meta award, you do not have to apply for sponsor bounties. The sponsor bounties are an additional incentive/bounty unrelated to the main hackathon prizes._
+
+Displaying how it works on OpenQ.
